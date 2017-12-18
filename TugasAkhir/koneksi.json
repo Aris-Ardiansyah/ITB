@@ -1,0 +1,9 @@
+    {
+        "Server": "localhost\\SQLEXPRESS", 
+        "Port": "1433", 
+        "User": "bps7322", 
+        "Password": "Ipds7322",
+        "Database" : "data7322",
+
+        "WebPort" : "8181"
+    } 
